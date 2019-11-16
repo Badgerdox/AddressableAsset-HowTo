@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a01f070-34fa-4e28-9044-5c3065a17609" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@1.3.3/Runtime/AddressablesImpl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Tutorial/Assets/AddressableTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreateAddressablesLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/ColorChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressableLocations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@1.3.3/Editor/GUI/AddressableAssetsSettingsGroupTreeView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefObjectData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Remote_Samples/LoadAssetsFromRemote.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/AddressableLocationLoader.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssetReferences.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadByAssetRef.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssetReferenceSamples.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssetReferenceExamples.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelObjectData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssetRefLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssetData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/ColorChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssetRef/AssetRefData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables/LoadAddressable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadAddressable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadAddressableByLabel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadAddressablesByLabel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRef_ObjectData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadAddressablesByLabel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadAddressables.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadingCompleted.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadingCompleted.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressableData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AsyncLoadingCompleted.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadAddressableAsset.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressablesData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressableAssets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AsyncLoadingComplete.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadingComplete.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadingCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadingStatus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadAddressableLocations.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/AddressableLoadedStatus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreateAddressableAssets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAddressableAssets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressablesLocations.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AddressableLoadStatus.cs" />
+        <option value="$PROJECT_DIR$/../Tutorial/Assets/AddressableTests.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AddressablesLoadStatus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefObjectData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/AddressableLocationLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreateAddressablesLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressableLocations.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Remote_Samples/LoadAssetsFromRemote.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TA33llfYQJnJZybcw0GiOgSw0Z" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_Android_plugin_suggestion" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a01f070-34fa-4e28-9044-5c3065a17609" name="Default Changelist" comment="" />
+      <created>1572888877347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572888877347</updated>
+      <workItem from="1572888883346" duration="13555000" />
+      <workItem from="1572907221715" duration="2000" />
+      <workItem from="1572907272899" duration="1000" />
+      <workItem from="1572907406086" duration="2174000" />
+      <workItem from="1572975174138" duration="5172000" />
+      <workItem from="1572982793852" duration="11390000" />
+      <workItem from="1572995367381" duration="4000" />
+      <workItem from="1572995411461" duration="13813000" />
+      <workItem from="1573069658440" duration="3851000" />
+      <workItem from="1573081352828" duration="9000" />
+      <workItem from="1573081469620" duration="84000" />
+      <workItem from="1573081576200" duration="2951000" />
+      <workItem from="1573093836414" duration="8000" />
+      <workItem from="1573093912999" duration="1701000" />
+      <workItem from="1573149868515" duration="7028000" />
+      <workItem from="1573159242691" duration="30371000" />
+      <workItem from="1573254505007" duration="16922000" />
+      <workItem from="1573496370241" duration="1902000" />
+      <workItem from="1573514914167" duration="51000" />
+      <workItem from="1573515020059" duration="1348000" />
+      <workItem from="1573596833004" duration="8145000" />
+      <workItem from="1573878973644" duration="23000" />
+      <workItem from="1573879017035" duration="9111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
