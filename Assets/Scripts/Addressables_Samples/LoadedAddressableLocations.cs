@@ -10,20 +10,20 @@ public class LoadedAddressableLocations : MonoBehaviour
     [SerializeField] private string _label;
     
     public IList<IResourceLocation> AssetLocations { get; } = new List<IResourceLocation>();
-    void Start()
+
+    private void Start()
     {
         InitAndWaitUntilLoaded(_label);
-        
     }
 
     public async Task InitAndWaitUntilLoaded(string label)
     {
         await AddressableLocationLoader.GetAll(label, AssetLocations);
-        
+
         foreach (var location in AssetLocations)
         {
-            //PERFORM ACTIONS HERE NOW THAT LOCATION IS FULLY LOADED
+            //ASSET IS NOW FULLY LOADED
+            //Debug.Log(location.PrimaryKey);
         }
     }
-
 }

@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 216639577}
   - component: {fileID: 216639576}
   m_Layer: 0
-  m_Name: Asset_Holder
+  m_Name: AssetHolder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -157,7 +157,7 @@ MonoBehaviour:
     m_SubObjectName: 
   - m_AssetGUID: d11ebd736ba9a574e8d35add180c732d
     m_SubObjectName: 
-  _objects: []
+  _completedObj: []
 --- !u!4 &216639577
 Transform:
   m_ObjectHideFlags: 0

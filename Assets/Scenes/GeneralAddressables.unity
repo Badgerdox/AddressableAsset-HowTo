@@ -260,9 +260,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a9b08a2b3669ac4bb2f142c831d908a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _label: prefab
-  _labels:
-  - default
-  - prefab
-  - remote
-  <Assets>k__BackingField: []
