@@ -18,6 +18,7 @@
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>ServerData</Path>
+      <Path>Temp</Path>
       <Path>obj</Path>
     </explicitExcludes>
   </component>

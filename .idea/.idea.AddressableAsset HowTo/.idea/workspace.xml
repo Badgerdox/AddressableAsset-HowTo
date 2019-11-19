@@ -25,9 +25,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefObjectData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/AddressableLocationLoader.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreateAddressablesLoader.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressableLocations.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreateAddressablesLoader.cs" />
       </list>
     </option>
   </component>
@@ -87,7 +87,9 @@
       <updated>1573943808373</updated>
       <workItem from="1573943837455" duration="435000" />
       <workItem from="1573944357194" duration="2418000" />
-      <workItem from="1573961568287" duration="13690000" />
+      <workItem from="1573961568287" duration="27970000" />
+      <workItem from="1574095978881" duration="5881000" />
+      <workItem from="1574108745825" duration="13117000" />
     </task>
     <servers />
   </component>
