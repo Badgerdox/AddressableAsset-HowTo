@@ -130,7 +130,6 @@ GameObject:
   m_Component:
   - component: {fileID: 432786757}
   - component: {fileID: 432786756}
-  - component: {fileID: 432786758}
   m_Layer: 0
   m_Name: AssetHolder
   m_TagString: Untagged
@@ -147,10 +146,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 432786755}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6bbe6f4e9d0bc294e85a7cdf1a017940, type: 3}
+  m_Script: {fileID: 11500000, guid: 8e62338211d55a2469d04c7f8b4aaf4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _label: prefab
+  _label: remote
 --- !u!4 &432786757
 Transform:
   m_ObjectHideFlags: 0
@@ -165,23 +164,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &432786758
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 432786755}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a9b08a2b3669ac4bb2f142c831d908a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _label: prefab
-  _labels:
-  - remote
-  - prefab
-  <Assets>k__BackingField: []
 --- !u!1 &572786124
 GameObject:
   m_ObjectHideFlags: 0

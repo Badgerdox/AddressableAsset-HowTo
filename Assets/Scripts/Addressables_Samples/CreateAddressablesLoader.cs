@@ -9,25 +9,21 @@ using UnityEngine.ResourceManagement.ResourceLocations;
 
 public static class CreateAddressablesLoader
 {
-    public static async Task InitAssets<T>(string assetNameOrLabel, List<T> createdAssets)
+     public static async Task InitAssets<T>(string assetNameOrLabel, List<T> createdObjs)
         where T : Object
     {
         var locations = await Addressables.LoadResourceLocationsAsync(assetNameOrLabel).Task;
-            foreach (var location in locations)
-                createdAssets.Add(await Addressables.InstantiateAsync(location).Task as T);
+        
+        await CreateAssetsThenUpdateCollection(locations, createdObjs);
     }
     
     public static async Task ByLoadedAddress<T>(IList<IResourceLocation> loadedLocations, List<T> createdObjs)
     where T : Object
     {
-        foreach (var location in loadedLocations)
-        {
-            var obj = await Addressables.InstantiateAsync(location).Task as T;
-            createdObjs.Add(obj);
-        }
+        await CreateAssetsThenUpdateCollection(loadedLocations, createdObjs);
     }
 
-    public static async Task HasAllLabels<T>(List<string> labels, bool removeDupes, List<T> createdObjs) where T : Object
+    public static async Task AnyGivenLabels<T>(List<string> labels, bool removeDupes, List<T> createdObjs) where T : Object
     {
         IList<IResourceLocation> locations = new List<IResourceLocation>();
 
@@ -40,13 +36,10 @@ public static class CreateAddressablesLoader
         if (removeDupes)
             await FindDuplicateEntries(locations, true);
         
-        foreach (var location in locations)
-        {
-            createdObjs.Add(await Addressables.InstantiateAsync(location).Task as T);
-        }
+        await CreateAssetsThenUpdateCollection(locations, createdObjs);
     }
     
-    public static async Task BySpecificLabels<T>(List<string> labels, List<T> createdObjects) where T : Object
+    public static async Task ContainingAllLabels<T>(List<string> labels, List<T> createdObjs) where T : Object
     {
         IList<IResourceLocation> locations = new List<IResourceLocation>();
 
@@ -56,8 +49,14 @@ public static class CreateAddressablesLoader
             locations = tempLoc.ToList();
         }
         
+        await CreateAssetsThenUpdateCollection(locations, createdObjs);
+    }
+
+    private static async Task CreateAssetsThenUpdateCollection<T>(IList<IResourceLocation> locations, List<T> createdObjs)
+        where T: Object
+    {
         foreach (var location in locations)
-            createdObjects.Add(await Addressables.InstantiateAsync(location).Task as T);
+            createdObjs.Add(await Addressables.InstantiateAsync(location).Task as T);
     }
 
     private static async Task FindDuplicateEntries(IList<IResourceLocation> locations, bool toRemove = false, bool toGet = false)
@@ -72,6 +71,44 @@ public static class CreateAddressablesLoader
                 locations.Remove(dup);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
