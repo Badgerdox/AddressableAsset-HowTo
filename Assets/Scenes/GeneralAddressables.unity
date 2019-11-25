@@ -276,5 +276,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _labels:
   - prefab
-  - remote
   - default
+  - remote
