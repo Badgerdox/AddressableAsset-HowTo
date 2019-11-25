@@ -42,10 +42,12 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.idea
 
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
+*.idea
 *.mdb.meta
 
 # Unity3D generated file on crash reports

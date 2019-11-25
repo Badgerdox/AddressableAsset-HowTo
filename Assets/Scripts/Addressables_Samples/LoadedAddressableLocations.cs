@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.ResourceManagement.ResourceLocations;
@@ -13,17 +14,17 @@ public class LoadedAddressableLocations : MonoBehaviour
 
     private void Start()
     {
-        InitAndWaitUntilLoaded(_label);
+        InitAndWaitUntilLocLoaded(); 
     }
 
-    public async Task InitAndWaitUntilLoaded(string label)
+    private async Task InitAndWaitUntilLocLoaded()
     {
-        await AddressableLocationLoader.GetAll(label, AssetLocations);
+        await AddressableLocationLoader.GetAll(_label, AssetLocations);
 
         foreach (var location in AssetLocations)
         {
-            //ASSET IS NOW FULLY LOADED
-            //Debug.Log(location.PrimaryKey);
+            //ASSET LOCATION FULLY LOADED
+            Debug.Log(location.PrimaryKey);
         }
     }
 }

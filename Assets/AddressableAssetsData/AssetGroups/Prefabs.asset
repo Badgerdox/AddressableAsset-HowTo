@@ -22,11 +22,13 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - prefab
+    - default
   - m_GUID: d11ebd736ba9a574e8d35add180c732d
     m_Address: Triangle
     m_ReadOnly: 0
     m_SerializedLabels:
     - prefab
+    - remote
     - default
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 619fd836802dbda44bbc1e84d503811e, type: 2}

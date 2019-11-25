@@ -214,6 +214,7 @@ GameObject:
   - component: {fileID: 1193231808}
   - component: {fileID: 1193231807}
   - component: {fileID: 1193231809}
+  - component: {fileID: 1193231810}
   m_Layer: 0
   m_Name: AssetHolder
   m_TagString: Untagged
@@ -233,7 +234,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bbe6f4e9d0bc294e85a7cdf1a017940, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _label: prefab
+  _label: 
 --- !u!4 &1193231808
 Transform:
   m_ObjectHideFlags: 0
@@ -255,11 +256,25 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1193231806}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3a9b08a2b3669ac4bb2f142c831d908a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _label: prefab
+--- !u!114 &1193231810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1193231806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8645dde11d62c8044afd6b8545d5063f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
   _labels:
-  - default
   - prefab
+  - remote
+  - default

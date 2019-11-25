@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+﻿using System;
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
@@ -6,7 +6,8 @@ using UnityEngine.AddressableAssets;
 public class LoadAssetsFromRemote : MonoBehaviour
 {
     [SerializeField] private string _label;
-    void Start()
+
+    private void Start()
     {
         Get(_label);
     }
@@ -14,9 +15,10 @@ public class LoadAssetsFromRemote : MonoBehaviour
     private async Task Get(string label)
     {
         var locations = await Addressables.LoadResourceLocationsAsync(label).Task;
-        
-        foreach (var location in locations)
-            await Addressables.InstantiateAsync(location).Task;
-    }
 
+        foreach (var location in locations)
+        {
+            await Addressables.InstantiateAsync(location).Task;
+        }
+    }
 }

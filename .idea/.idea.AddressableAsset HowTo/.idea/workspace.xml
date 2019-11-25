@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefObjectData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/SortedCompletedAssets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Remote_Samples/LoadAssetsFromRemote.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreateAddressablesLoader.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -25,13 +26,15 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefObjectData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/AddressableLocationLoader.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressableLocations.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/RemoteAssets.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/RemoteAssetsHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/AddressableLocationLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressableLocations.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Remote_Samples/LoadAssetsFromRemote.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/SortedCreatedAssets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreateAddressablesLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/SortedCompletedAssets.cs" />
       </list>
     </option>
   </component>
@@ -96,7 +99,9 @@
       <workItem from="1574108745825" duration="13117000" />
       <workItem from="1574178602495" duration="5238000" />
       <workItem from="1574200164481" duration="2627000" />
-      <workItem from="1574233092219" duration="391000" />
+      <workItem from="1574233092219" duration="999000" />
+      <workItem from="1574529355119" duration="4663000" />
+      <workItem from="1574619250722" duration="7743000" />
     </task>
     <servers />
   </component>
