@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
-  m_DefaultGroup: ac7b50ba8cb58f948accb52a57e06070
-  m_BuildRemoteCatalog: 1
+  m_DefaultGroup: fe8485c27434d3f41a018b0a6d2f3ec9
+  m_BuildRemoteCatalog: 0
   m_UniqueBundleIds: 0
   m_RemoteCatalogBuildPath:
     m_Id: bffadb53fd8d5a8468c571f2a822b3bf
@@ -22,9 +22,10 @@ MonoBehaviour:
   m_overridePlayerVersion: 
   m_GroupAssets:
   - {fileID: 11400000, guid: 30c9a6f6a1817bf4e9a9af4ad13faf14, type: 2}
+  - {fileID: 11400000, guid: f188b201284430a4c9f311e4151827b2, type: 2}
   - {fileID: 11400000, guid: caeca98065ca9e14fab1abfdb77dea06, type: 2}
   - {fileID: 11400000, guid: 8c33dcf141b85bf459cdced7a7d7cbfe, type: 2}
-  - {fileID: 11400000, guid: f188b201284430a4c9f311e4151827b2, type: 2}
+  - {fileID: 11400000, guid: 83244221214140b41b215009c9417e63, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -82,6 +83,7 @@ MonoBehaviour:
     - prefab
     - default
     - remote
+    - SO
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: e16352e8a9dc2df4a99b86825f3bb9c5, type: 2}
@@ -95,7 +97,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 7f47caae0b7343b4dad349cd27b4637d, type: 2}
   - {fileID: 11400000, guid: e113432b61457d34c82187b3f559decd, type: 2}
   - {fileID: 11400000, guid: 09444a12394cd6142a499c343e6a4d1a, type: 2}
-  m_ActiveProfileId: e0541ac36f3173143893e1b6a6d78533
+  m_ActiveProfileId: 55102cc313deaf445b30c544161b24d5
   m_HostingServicesManager:
     m_HostingServiceInfos: []
     m_Settings: {fileID: 11400000}

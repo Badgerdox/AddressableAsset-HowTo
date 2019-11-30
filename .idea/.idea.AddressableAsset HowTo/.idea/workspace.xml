@@ -12,14 +12,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/CGTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/SortedCreatedAssets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AddressableSOLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@1.3.8/Runtime/AddressablesImpl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreateAddressablesLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressableLocations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SO_TEST.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/AddressableLocationLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefObjectData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefLoader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/SortedCreatedAssets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Remote_Samples/LoadAssetsFromRemote.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreateAddressablesLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/ColorChange.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -31,10 +36,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/AddressableLocationLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressableLocations.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Remote_Samples/LoadAssetsFromRemote.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreateAddressablesLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/SortedCompletedAssets.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/SortedCreatedAssets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/CGTests.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" />
+        <option value="$PROJECT_DIR$/Assets/SO_TEST.cs" />
+        <option value="$PROJECT_DIR$/Assets/AddressableSOLoader.cs" />
       </list>
     </option>
   </component>
@@ -103,6 +111,8 @@
       <workItem from="1574529355119" duration="4663000" />
       <workItem from="1574619250722" duration="7743000" />
       <workItem from="1574643046392" duration="3133000" />
+      <workItem from="1574724849911" duration="1980000" />
+      <workItem from="1574973330749" duration="12341000" />
     </task>
     <servers />
   </component>

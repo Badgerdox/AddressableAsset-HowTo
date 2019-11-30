@@ -10,6 +10,8 @@ public class CreatedAssets : MonoBehaviour
 {
     [SerializeField] private string _label;
     private List<GameObject> Assets { get; } = new List<GameObject>();
+    
+    
 
     private void Start()
     {

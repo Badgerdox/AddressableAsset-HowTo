@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Remote_Load_Instantiate.unity
-    guid: a0815f92d5b73cc4fbb590b42ad3ccbb
+    path: Assets/Scenes/GeneralAddressables.unity
+    guid: 5bb8b59454737b74994ccf6ab83d5562
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 2f7f04b60c225ca4fa06e790433ee7d1,
       type: 2}
