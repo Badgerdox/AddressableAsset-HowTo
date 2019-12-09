@@ -17,11 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: fe8485c27434d3f41a018b0a6d2f3ec9
   m_SerializeEntries:
-  - m_GUID: 30b05f60336c2dd4ebbfa700f7da91d9
-    m_Address: Assets/Test.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - SO
   - m_GUID: 94c75abad65a753429b3454d1654f063
     m_Address: Circle
     m_ReadOnly: 0

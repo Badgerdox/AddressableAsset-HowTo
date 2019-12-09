@@ -14,16 +14,17 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/CGTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/SortedCreatedAssets.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AddressableSOLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Event_Classes/TEST_InitApp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@1.3.8/Runtime/AddressablesImpl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Event_Classes/GameEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreateAddressablesLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/LoadedAddressableLocations.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SO_TEST.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/AddressableLocationLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefObjectData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssetRef_Samples/AssetRefLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Remote_Samples/LoadAssetsFromRemote.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Event_Classes/EventListener.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/ColorChange.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -43,6 +44,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Addressables_Samples/CreatedAssets.cs" />
         <option value="$PROJECT_DIR$/Assets/SO_TEST.cs" />
         <option value="$PROJECT_DIR$/Assets/AddressableSOLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Event_Classes/TEST_InitGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Event_Classes/AppEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Event_Classes/AppEventCaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Event_Classes/EventListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Event_Classes/TEST_InitApp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Event_Classes/GameEvent.cs" />
       </list>
     </option>
   </component>
@@ -112,7 +119,9 @@
       <workItem from="1574619250722" duration="7743000" />
       <workItem from="1574643046392" duration="3133000" />
       <workItem from="1574724849911" duration="1980000" />
-      <workItem from="1574973330749" duration="12341000" />
+      <workItem from="1574973330749" duration="12959000" />
+      <workItem from="1575756452385" duration="7275000" />
+      <workItem from="1575764381380" duration="2120000" />
     </task>
     <servers />
   </component>
