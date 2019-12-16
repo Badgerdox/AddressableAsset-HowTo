@@ -17,6 +17,12 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 00641363f855d55479c7a51751145bed
   m_SerializeEntries:
+  - m_GUID: 94c75abad65a753429b3454d1654f063
+    m_Address: Circle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - remote
   - m_GUID: bc0ffc923e5225544a74a594cbe09f8c
     m_Address: Square
     m_ReadOnly: 0

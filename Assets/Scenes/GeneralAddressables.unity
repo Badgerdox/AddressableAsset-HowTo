@@ -373,8 +373,6 @@ GameObject:
   - component: {fileID: 1193231807}
   - component: {fileID: 1193231809}
   - component: {fileID: 1193231810}
-  - component: {fileID: 1193231811}
-  - component: {fileID: 1193231812}
   m_Layer: 0
   m_Name: AssetHolder
   m_TagString: Untagged
@@ -429,7 +427,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1193231806}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8645dde11d62c8044afd6b8545d5063f, type: 3}
   m_Name: 
@@ -438,37 +436,3 @@ MonoBehaviour:
   - prefab
   - default
   - remote
---- !u!114 &1193231811
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1193231806}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 158ceb2869fc3d34b9c0e651ef0a8d4e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  amt: 500
-  label: prefab
-  useAssets: 0
-  prefab: {fileID: 4894903416879501765, guid: 94c75abad65a753429b3454d1654f063, type: 3}
---- !u!114 &1193231812
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1193231806}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ce39ceeb6df6962459feed94db33ffdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  label: SO
-  TestObj: {fileID: 0}
-  debug_Txt: {fileID: 0}
-  obj: {fileID: 4894903416879501765, guid: 94c75abad65a753429b3454d1654f063, type: 3}
-  goBtn: {fileID: 0}
-  aABtn: {fileID: 0}
