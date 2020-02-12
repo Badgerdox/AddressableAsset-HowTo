@@ -6,7 +6,7 @@ using UnityEngine.AddressableAssets;
 
 public class SortedCreatedAssets : MonoBehaviour
 {
-    [SerializeField] private List<string> _labels = new List<string>();
+    [SerializeField] private string[] _labels;
 
     private void Start()
     {
